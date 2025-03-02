@@ -95,7 +95,6 @@ class Forgetpass extends StatelessWidget {
                 child: Text('Save', style: TextStyle(color: Colors.white)),
               ),
               SizedBox(height: 50),
-
             ],
           ),
         ),
